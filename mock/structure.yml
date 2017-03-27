@@ -1,0 +1,18 @@
+- _data:
+  - beatles.yml
+  
+- _posts:
+  - 2017-03-13-welcome-to-jekyll.md
+  - 2017-03-17-another-post.md
+  
+- _includes:
+  - menu.md
+  
+- _layouts:
+  - default.html
+  - page.html
+  - post.html
+  
+- _config.yml
+- about.md
+- index.md

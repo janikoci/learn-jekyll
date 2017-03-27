@@ -1,0 +1,15 @@
+{
+  "name": "learn-jekyll",
+  "version": "0.0.1",
+  "description": "Javascript-based Jekyll mockup engine",
+  "main": "index.js",
+  "repository": "http://github.com/jan-martinek/learn-jekyll",
+  "author": "Jan Martinek",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.8.2",
+    "liquid": "^1.2.1",
+    "marked": "^0.3.6",
+    "yaml-front-matter": "^3.4.0"
+  }
+}

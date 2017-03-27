@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>{{ site.title }}</title>
+	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css">
+	
+</head>
+<body>
+	<div class="wrapper">
+		<header>
+			<h1><a href="{{ site.baseurl }}{% link index.md %}">{{ site.title }}</a></h1>
+		</header>
+		
+		<section class="content">
+			{{ content }}
+		</section>
+		
+		<nav>
+			{% include menu.md %}
+		</nav>
+	</div>
+</body>
+</html>

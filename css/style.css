@@ -1,0 +1,27 @@
+.wrapper {
+	margin: 50px auto;
+	max-width: 800px;
+	padding: 20px;
+}
+
+.header {
+	padding: 30px 0;
+	border-bottom: solid;
+}
+
+.content {
+	float: right;
+	width: 75%;
+	border-left: solid;
+	padding-left: 30px;
+}
+
+nav {
+	float: left;
+	width: 15%;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+}
