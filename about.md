@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-# Profesor Allen Foster 
+# Profesor Allen Foster
 
 - **Cílová skupina:**
 	- Studenti VŠ (vzhledem k tomu, že je tato osobnost důležitá pro obor informační věda, tak bychom se především zaměřily na studenty informačních věd).
