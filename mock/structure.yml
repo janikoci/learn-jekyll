@@ -4,7 +4,9 @@
 - _posts:
   - 2017-03-13-welcome-to-jekyll.md
   - 2017-03-17-another-post.md
-  
+  - 2017-04-10-embedded-post.md
+  - 2017-04-17-team.md
+
 - _includes:
   - menu.md
   
