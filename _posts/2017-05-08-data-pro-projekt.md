@@ -1,30 +1,37 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-  <head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="generator" content="PSPad editor, www.pspad.com">
-  <title></title>
-  </head>
-  <body>
-     1. (Otevøená) data pro projekt
-Naše skupina se rozhodla pro následující zdroje informací.
+---
+layout: post
+title:  "Data pro projekt"
+date:   2017-05-08 16:26:18 +0100
+tags: 
+    - team
+    - data
+    - projekt
+---
 
-GOOGLE SCHOLAR
-          - Pod urèitımi hesly se zde nachází nepøeberné mnoství informací. Stejnì tak i informace, které mùeme vyuít v našem projektu.
-          - Licence tu dle mého názoru není zcela jasná, jsou zde práce, které pochází z rùznıch webovıch stránek a tak mají své vlastní licenèní pravidla.
+# (OtevÅ™enÃ¡) data pro projekt
 
-EBSCO a SCOPUS
-- V EBSCU kam máme pøístup díky MU je k dispozici hodnì bakaláøskıch a magisterskıch prací, dále také spousty èlánkù, jk recenzovanıch tak nerecenzovanıch, jsou zde dokonce i nìkteré celé publikace. Teoreticky by se daly vyuít. Zvolili jsme si ho protoe všechny tyto informace musí bıt øádnì odcitovány a nemìly by se tam nacházet nepravdivé, popøípadì mylné informace. Stejnì tak i SCOPUS.
-	-Licence Agreement
+NaÅ¡e skupina se rozhodla pro nÃ¡sledujÃ­cÃ­ zdroje informacÃ­.
 
+### GOOGLE SCHOLAR
 
- WIKIPEDIE
-          - Wikipedie bıvá èasto kritizovaná, jeliko tam píšou informace všichni a ne odborníci. Navštívila jsem pøednášku pana Jana Sokola, kterı je "milovník" wikipedie a sám ji upravuje. Já osobnì v ní vidím dobrı informaèní zdroj. Vše budeme samozøejmì ovìøovat i u jinıch zdrojù, musíme se vyvarovat chybám, které by se mohly na webu vyskytnout.
-          - Mùeme zde najít rozsáhlé informace o rùznıch projektech, ocenìní našeho fenoménu apod.
-	- Dostupné pod licencí Creative Commons.
+- Pod urÄitÃ½mi hesly se zde nachÃ¡zÃ­ nepÅ™ebernÃ© mnoÅ¾stvÃ­ informacÃ­. StejnÄ› tak i informace, kterÃ© mÅ¯Å¾eme vyuÅ¾Ã­t v naÅ¡em projektu. - Licence tu dle mÃ©ho nÃ¡zoru nenÃ­ zcela jasnÃ¡, jsou zde prÃ¡ce, kterÃ© pochÃ¡zÃ­ z rÅ¯znÃ½ch webovÃ½ch strÃ¡nek, a tak majÃ­ svÃ© vlastnÃ­ licenÄnÃ­ pravidla.
 
-KNIHY
-	- Hodláme vyuít i tištìné zdroje nejen elektronické, vzhledem k tomu, e naše téma se tıká osobnosti nebude tìké najít i knihy zamìøené na tuto osobnost popøípadì na ji vıše zmínìné zásluhy apod.
-	
-  </body>
-</html>
+### EBSCO a SCOPUS
+
+- V EBSCU, kam mÃ¡me pÅ™Ã­stup dÃ­ky MU, je k dispozici hodnÄ› bakalÃ¡Å™skÃ½ch a magisterskÃ½ch pracÃ­, dÃ¡le takÃ© spousty ÄlÃ¡nkÅ¯, jak recenzovanÃ½ch, tak nerecenzovanÃ½ch.
+- Jsou zde dokonce i celÃ© publikace - teoreticky by se daly vyuÅ¾Ã­t.
+- Zvolili jsme si ho, protoÅ¾e vÅ¡echny tyto informace musÃ­ bÃ½t Å™Ã¡dnÄ› odcitovÃ¡ny a nemÄ›ly by se tam nachÃ¡zet nepravdivÃ©, popÅ™Ã­padÄ› mylnÃ© informace. StejnÄ› tak i SCOPUS.
+- Licence: Agreement
+
+### WIKIPEDIE
+
+- Wikipedie bÃ½vÃ¡ Äasto kritizovanÃ¡, jelikoÅ¾ tam pÃ­Å¡ou informace vÅ¡ichni a ne odbornÃ­ci.
+- NavÅ¡tÃ­vila jsem pÅ™ednÃ¡Å¡ku pana Jana Sokola, kterÃ½ je "milovnÃ­k" Wikipedie a sÃ¡m ji upravuje.
+- JÃ¡ osobnÄ› v nÃ­ vidÃ­m dobrÃ½ informaÄnÃ­ zdroj. VÅ¡e budeme samozÅ™ejmÄ› ovÄ›Å™ovat i u jinÃ½ch zdrojÅ¯, musÃ­me se vyvarovat chybÃ¡m, kterÃ© by se mohly na webu vyskytnout.
+- MÅ¯Å¾eme zde najÃ­t rozsÃ¡hlÃ© informace o rÅ¯znÃ½ch projektech, ocenÄ›nÃ­ naÅ¡eho fenomÃ©nu apod.
+- DostupnÃ© pod licencÃ­: Creative Commons
+
+### KNIHY
+
+- HodlÃ¡me vyuÅ¾Ã­t i tiÅ¡tÄ›nÃ© zdroje, ne pouze elektronickÃ©.
+- Vzhledem k tomu, Å¾e naÅ¡e tÃ©ma se tÃ½kÃ¡ osobnosti, nebude tÄ›Å¾kÃ© najÃ­t i knihy zamÄ›Å™enÃ© pÅ™Ã­mo na ni, popÅ™Ã­padÄ› na jiÅ¾ vÃ½Å¡e zmÃ­nÄ›nÃ© zÃ¡sluhy apod.
