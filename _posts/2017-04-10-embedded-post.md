@@ -1,17 +1,23 @@
 ---
 layout: post
 title:  "Hi, I'm Allen!"
-date:   2017-04-10 18:15:18 +0100
+date:   <b>2017-05-12 16:40</b>
 tags: 
-    - hello world
-    - start
-    - jekyll
+    - Allen
+    - photo
+    - hello
 ---
 
 <div>
-<p style="padding-right: 50px">Uvadim sluzbu imgflip.com, kde se daji vytvaret memy a jine.
-<img src="https://i.imgflip.com/1mzzn6.jpg" title="made at imgflip.com" alt="Allen" align="middle"/>
+<p style="padding-right: 50px">
+
+Dobrý den,
+mé jméno je Allen Foster a jsem profesor. 
+
+<br>
+<br>
+<br>
+
+<img src="https://i.imgflip.com/1mzzn6.jpg" title="made at imgflip.com" alt="Allen" align="middle" width="250px" height="250px" border="dotted"/>
 </p>   
 </div>
-
-Tento obrázek jsem vybrala, protože moje téma je Allen Foster. Tak proto.

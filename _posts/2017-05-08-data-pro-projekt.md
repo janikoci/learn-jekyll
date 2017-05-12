@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  "Data pro projekt"
-date:   2017-05-08 16:26:18 +0100
+date:   <b>2017-05-08 16:26</b>
 tags: 
     - team
     - data
     - projekt
 ---
-
-# (Otevřená) data pro projekt
 
 Naše skupina se rozhodla pro následující zdroje informací.
 
