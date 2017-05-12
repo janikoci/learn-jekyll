@@ -1,25 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-03-13 19:09:48 +0100
+title:  "Vítejte!"
+date:   <b>2017-05-12 16:08</b>
 tags: 
-    - hello world
-    - start
-    - jekyll
+    - hello
+    - beginnings
+    - our page
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Vítejte na naší stránce! Dozvíte se tu nejrůznější informace o zajímavé osobnosti z oboru Informační vědy, které, doufáme, budou ku prospěchu a třeba vás něčím obohatí! 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+## Co dál?
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Navštivte již připravené příspěvky! Buď se informujte o našem [týmu](http://localhost:8080/learn-jekyll/mock/?2017-04-17-team) nebo navštivte [stránku](http://localhost:8080/learn-jekyll/mock/?about), která vám řekne víc o našem projektu. :)
 
-## What's next?
+<!--[another post]({{ site.baseurl }}{{ page.next.url }}) or head back to [homepage]({{ site.baseurl }}{% link index.md %})-->
 
-See [another post]({{ site.baseurl }}{{ page.next.url }}) or head back to [homepage]({{ site.baseurl }}{% link index.md %}). (Check this paragraph to see the magic behind the links.)
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
