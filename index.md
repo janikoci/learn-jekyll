@@ -3,10 +3,10 @@ layout: page
 title: Home
 ---
 
-<h1 id="vitejte"> Vítejte! </h1>
-<h2 style="text-align: center"> Vypadá to, že fungujeme! </h1>
+<h1>Vítejte!</h1>
+<h2 style="text-align: center">Vypadá to, že fungujeme!</h2>
 
-## **Příspěvky**
+## Příspěvky
 
 Koukněte na některé z našich příspěvků:
 
