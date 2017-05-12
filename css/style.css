@@ -14,6 +14,7 @@
 	width: 75%;
 	border-left: solid;
 	padding-left: 30px;
+	font-family: palatino;
 }
 
 nav {
@@ -26,6 +27,4 @@ nav ul {
 	padding: 0;
 }
 
-body {
-	background: url("http://bsnscb.com/data/out/179/27192180-soft-wallpapers.jpg")
-}
+/*url("http://bsnscb.com/data/out/179/27192180-soft-wallpapers.jpg");*/
