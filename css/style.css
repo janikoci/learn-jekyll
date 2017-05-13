@@ -27,4 +27,7 @@ nav ul {
 	padding: 0;
 }
 
-/*url("http://bsnscb.com/data/out/179/27192180-soft-wallpapers.jpg");*/
+body {
+	background: url('http://wallpapercave.com/wp/Rstecz1.jpg');
+	background-repeat: repeat-x;
+}
