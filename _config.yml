@@ -30,4 +30,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - mock/*
-google_analytics: UA-________-_
+google_analytics: UA-98729759-1
