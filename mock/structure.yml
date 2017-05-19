@@ -10,6 +10,7 @@
 
 - _includes:
   - menu.md
+  - analytics.md
   
 - _layouts:
   - default.html
