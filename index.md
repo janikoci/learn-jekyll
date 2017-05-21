@@ -3,32 +3,12 @@ layout: page
 title: Home
 ---
 
-# Hello World! (It works!)
+<h1>Vítejte!</h1>
+<h2 style="text-align: center">Vypadá to, že fungujeme!</h2>
 
-This are the contents of the Jekyll front page.
+## Příspěvky
 
-## Something to read: Sonnet LXVI.
-
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
-
-## Posts
-
-See the posts:
+Koukněte na některé z našich příspěvků:
 
 <ul>
   {% for post in site.posts %}
@@ -38,9 +18,9 @@ See the posts:
   {% endfor %}
 </ul>
 
-## Pages
+## **Stránky**
 
-And even normal pages:
+A zde vidíte jednotlivé stránky:
 
 <ul>
   {% for page in site.pages %}
@@ -49,3 +29,8 @@ And even normal pages:
     </li>
   {% endfor %}
 </ul>
+
+
+<img src="https://img.clipartfest.com/97d2d5b97cce5f4dee5a8648f5a2f8de_work-in-progress-clip-art-work-in-progress-clipart-png_1023-1023.svg" width="300px" height="300px" title="snažíme se!"  > 
+
+<br>
