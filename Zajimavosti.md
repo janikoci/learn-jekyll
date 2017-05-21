@@ -12,7 +12,7 @@ Také vydal více než 10 článků – mezi nimi například ***A nonlinear mod
 Zajímavostí je i to, že Allen Foster se v současné době věnuje převážně zaměření na informační vědu, ale středem jeho vzdělání byla historie na Univerzitě v Sheffieldu.
 
 
-![University of Sheffield](images/uni.jpg)
+![University of Sheffield](images/sheffield.jpg)
 
 Zdroje:
 
