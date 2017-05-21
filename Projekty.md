@@ -3,12 +3,13 @@ layout: page
 title: Projekty
 ---
 ## Projekty
-„Nejistota informaèního vyhledávání“ je projekt zahrnující vızkum práce na poèítaèové komunikaci a chování pøi informaèním hledání.
-Práce poskytla základ pro další vızkum, zahrnující mnoství klíèovıch oblastí informaèní vìdy.
-Vıše zmiòovanı vızkum, na kterém spolupracoval s Nigelem Fordem¨(profesorem informaèní vìdy) se tıkal "Nahodilosti".
-O rok pozdìji se vìnoval dalšímu vızkumu, kterı zkoumal chování pøi informaèním hledaní.
-Allenovy nedávné vızkumy zahrnovaly další rozšíøení tohoto nelineárního modelu a hlavnì práci zkoumající dùsledky nelineární perspektivy jako nástroj pro porozumìní lidského informaèního chování.  Mezi jeho další témata vızkumù a prací patøí interdisciplinarita, informaèní gramotnost, informaèní dovednosti, technologie a komunikace nebo poèítaèem zprostøedkovaná komunikace.
-Vıuka a vızkumy doktora Fostera se zamìøují pøedevším na studium informací a jejich uivatelù, vèetnì informaèních slueb a systémù, informaèního vyhledávání, hudební knihovny a informaèního hledání nebo chování pøi vyhledávání.
+
+â€Nejistota informaÄnÃ­ho vyhledÃ¡vÃ¡nÃ­â€œ je projekt zahrnujÃ­cÃ­ vÃ½zkum prÃ¡ce na poÄÃ­taÄovÃ© komunikaci a chovÃ¡nÃ­ pÅ™i informaÄnÃ­m hledÃ¡nÃ­.
+PrÃ¡ce poskytla zÃ¡klad pro dalÅ¡Ã­ vÃ½zkum, zahrnujÃ­cÃ­ mnoÅ¾stvÃ­ klÃ­ÄovÃ½ch oblastÃ­ informaÄnÃ­ vÄ›dy.
+VÃ½Å¡e zmiÅˆovanÃ½ vÃ½zkum, na kterÃ©m spolupracoval s Nigelem FordemÂ¨(profesorem informaÄnÃ­ vÄ›dy) se tÃ½kal "Nahodilosti".
+O rok pozdÄ›ji se vÄ›noval dalÅ¡Ã­mu vÃ½zkumu, kterÃ½ zkoumal chovÃ¡nÃ­ pÅ™i informaÄnÃ­m hledanÃ­.
+Allenovy nedÃ¡vnÃ© vÃ½zkumy zahrnovaly dalÅ¡Ã­ rozÅ¡Ã­Å™enÃ­ tohoto nelineÃ¡rnÃ­ho modelu a hlavnÄ› prÃ¡ci zkoumajÃ­cÃ­ dÅ¯sledky nelineÃ¡rnÃ­ perspektivy jako nÃ¡stroj pro porozumÄ›nÃ­ lidskÃ©ho informaÄnÃ­ho chovÃ¡nÃ­.  Mezi jeho dalÅ¡Ã­ tÃ©mata vÃ½zkumÅ¯ a pracÃ­ patÅ™Ã­ interdisciplinarita, informaÄnÃ­ gramotnost, informaÄnÃ­ dovednosti, technologie a komunikace nebo poÄÃ­taÄem zprostÅ™edkovanÃ¡ komunikace.
+VÃ½uka a vÃ½zkumy doktora Fostera se zamÄ›Å™ujÃ­Â pÅ™edevÅ¡Ã­mÂ na studium informacÃ­ a jejichÂ uÅ¾ivatelÅ¯, vÄetnÄ› informaÄnÃ­ch sluÅ¾eb a systÃ©mÅ¯, informaÄnÃ­ho vyhledÃ¡vÃ¡nÃ­, hudebnÃ­ knihovny a informaÄnÃ­ho hledÃ¡nÃ­ nebo chovÃ¡nÃ­ pÅ™i vyhledÃ¡vÃ¡nÃ­.
 
 ![Allen Foster](images/allen.jpeg)
 
