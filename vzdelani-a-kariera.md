@@ -15,7 +15,7 @@ Dr Allen Foster byl jmenován vedoucím oddělení Informační studia. V roce 2
 
 
 <!--![Aberystwyth University](images\university.jpg)-->
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://cabinflooresoterica.com/images/aberystwyth/aberystwyth-03.jpg"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://cabinflooresoterica.com/images/aberystwyth/aberystwyth-03.jpg"></iframe>
 
 
 Zdroje:
