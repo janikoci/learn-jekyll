@@ -3,6 +3,7 @@ layout: page
 title: Projekty
 ---
 ## Projekty
+
 „Nejistota informačního vyhledávání“ je projekt zahrnující výzkum práce na počítačové komunikaci a chování při informačním hledání.
 Práce poskytla základ pro další výzkum, zahrnující množství klíčových oblastí informační vědy.
 Výše zmiňovaný výzkum, na kterém spolupracoval s Nigelem Fordem¨(profesorem informační vědy) se týkal "Nahodilosti".

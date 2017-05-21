@@ -14,6 +14,7 @@
 	width: 75%;
 	border-left: solid;
 	padding-left: 30px;
+	font-family: palatino;
 }
 
 nav {
@@ -24,4 +25,8 @@ nav {
 nav ul {
 	list-style-type: none;
 	padding: 0;
+}
+
+body {
+	background: url('http://wallpapercave.com/wp/Rstecz1.jpg');
 }
