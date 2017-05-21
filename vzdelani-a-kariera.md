@@ -14,8 +14,7 @@ Formální kvalifikace byly vyváženy jeho praktickými výzkumnými zkušenost
 Dr Allen Foster byl jmenován vedoucím oddělení Informační studia. V roce 2002 se byl přijat jako vyučující na Univerzitu v Aberystwythu, jež se nachází na západě Walesu. Výuka a výzkumy Dr Fostera se zaměřují především na studium informací a jejich uživatelů, včetně informačních služeb a systémů, informačního vyhledávání (získávání informací), informační gramotnosti, hudební knihovny a informačního hledání nebo chování při vyhledávání. Pozice trvá po dobu 5 let a Dr Foster přijal tuto pozici 1. září.
 
 
-<!--![Aberystwyth University](images\university.jpg)-->
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://cabinflooresoterica.com/images/aberystwyth/aberystwyth-03.jpg"></iframe>
+![Aberystwyth University](images\university.jpg)
 
 
 Zdroje:
