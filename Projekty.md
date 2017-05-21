@@ -13,7 +13,7 @@ Allenovy nedávné výzkumy zahrnovaly další rozšíření tohoto nelineární
 
 Výuka a výzkumy doktora Fostera se zaměřují především na studium informací a jejich uživatelů, včetně informačních služeb a systémů, informačního vyhledávání, hudební knihovny a informačního hledání nebo chování při vyhledávání.
 
-![Projekt](images/projects.jpeg)
+![Projekt](images/projects.jpg)
 
 
 Zdroje:
