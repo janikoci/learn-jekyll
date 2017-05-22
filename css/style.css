@@ -36,3 +36,7 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+li {
+	margin: 10px 0;
+}
